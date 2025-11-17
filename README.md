@@ -1,3 +1,4 @@
 # LemonInferior-DestopoweAplikacje
 fhfdhdfghdfhdfghdfh
 aedasdasd
+kolejna zmiana
