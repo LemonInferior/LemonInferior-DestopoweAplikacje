@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\PAI\\experymenty\\Firma.PortalWWW\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_AI\\Firma.PortalWWW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F247271-35EC-4CE0-8A56-BD7D83A78295}|Firma.PortalWWW.csproj|c:\\users\\asus\\desktop\\pai\\git_ai\\firma.portalwww\\gitignore .gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9F247271-35EC-4CE0-8A56-BD7D83A78295}|Firma.PortalWWW.csproj|solutionrelative:gitignore .gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -42,6 +43,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore .gitignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_AI\\Firma.PortalWWW\\gitignore .gitignore",
+              "RelativeDocumentMoniker": "gitignore .gitignore",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_AI\\Firma.PortalWWW\\gitignore .gitignore",
+              "RelativeToolTip": "gitignore .gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T19:08:48.251Z",
+              "EditorCaption": ""
             }
           ]
         }
